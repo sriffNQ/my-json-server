@@ -1,0 +1,13 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "siret": "19600541000002",
+      "compagnyName": "",
+      "businessName": "",
+      "address1": "",
+      "countryCode": "FR",
+      "city": ""
+    }
+  ]
+}
