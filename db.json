@@ -3,11 +3,38 @@
     {
       "id": 1,
       "siret": "19600541000002",
-      "compagnyName": "",
-      "businessName": "",
-      "address1": "",
+      "compagnyName": "Acme Corporation",
+      "businessName": "Acme Corp",
+      "address1": "123 Rue Principale",
       "countryCode": "FR",
-      "city": ""
+      "city": "Paris"
+    },
+    {
+      "id": 2,
+      "siret": "12345678900001",
+      "compagnyName": "Global Widgets",
+      "businessName": "Global Widgets Ltd",
+      "address1": "45 Avenue des Entrepreneurs",
+      "countryCode": "FR",
+      "city": "Lyon"
+    },
+    {
+      "id": 3,
+      "siret": "98765432100001",
+      "compagnyName": "Tech Solutions",
+      "businessName": "Tech Solutions SAS",
+      "address1": "789 Boulevard de l'Informatique",
+      "countryCode": "FR",
+      "city": "Marseille"
+    },
+    {
+      "id": 4,
+      "siret": "78901234500001",
+      "compagnyName": "EcoGreen",
+      "businessName": "EcoGreen Corporation",
+      "address1": "567 Rue de l'Environnement",
+      "countryCode": "FR",
+      "city": "Toulouse"
     }
   ]
 }
