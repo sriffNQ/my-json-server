@@ -7,6 +7,7 @@
       "businessName": "Acme Corp",
       "address1": "123 Rue Principale",
       "countryCode": "FR",
+      "postalCode": "75001",
       "city": "Paris"
     },
     {
@@ -16,6 +17,7 @@
       "businessName": "Global Widgets Ltd",
       "address1": "45 Avenue des Entrepreneurs",
       "countryCode": "FR",
+      "postalCode": "69001",
       "city": "Lyon"
     },
     {
@@ -25,6 +27,7 @@
       "businessName": "Tech Solutions SAS",
       "address1": "789 Boulevard de l'Informatique",
       "countryCode": "FR",
+      "postalCode": "13001",
       "city": "Marseille"
     },
     {
@@ -34,6 +37,7 @@
       "businessName": "EcoGreen Corporation",
       "address1": "567 Rue de l'Environnement",
       "countryCode": "FR",
+      "postalCode": "31100",
       "city": "Toulouse"
     }
   ]
