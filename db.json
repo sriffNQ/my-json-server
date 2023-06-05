@@ -9,7 +9,7 @@
       "countryCode": "FR",
       "postalCode": "75001",
       "city": "Paris",
-      "billing_Compta": "FIDBUR"
+      "billingCompta": "FIDBUR"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "countryCode": "FR",
       "postalCode": "69001",
       "city": "Lyon",
-      "billing_Compta": ""
+      "billingCompta": ""
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "countryCode": "FR",
       "postalCode": "13001",
       "city": "Marseille",
-      "billing_Compta": ""
+      "billingCompta": ""
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "countryCode": "FR",
       "postalCode": "31100",
       "city": "Toulouse",
-      "billing_Compta": ""
+      "billingCompta": ""
     }
   ]
 }
