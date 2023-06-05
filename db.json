@@ -8,7 +8,8 @@
       "address1": "123 Rue Principale",
       "countryCode": "FR",
       "postalCode": "75001",
-      "city": "Paris"
+      "city": "Paris",
+      "billing_Compta": "FIDBUR"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "address1": "45 Avenue des Entrepreneurs",
       "countryCode": "FR",
       "postalCode": "69001",
-      "city": "Lyon"
+      "city": "Lyon",
+      "billing_Compta": ""
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "address1": "789 Boulevard de l'Informatique",
       "countryCode": "FR",
       "postalCode": "13001",
-      "city": "Marseille"
+      "city": "Marseille",
+      "billing_Compta": ""
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "address1": "567 Rue de l'Environnement",
       "countryCode": "FR",
       "postalCode": "31100",
-      "city": "Toulouse"
+      "city": "Toulouse",
+      "billing_Compta": ""
     }
   ]
 }
